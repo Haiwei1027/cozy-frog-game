@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Demo/Water Visual Demo.unity
+    path: Assets/Scenes/Demos/Water Visual/Water Visual Demo.unity
     guid: ba7846ea3b7984a4392332231d6ae431
   m_configObjects: {}
