@@ -620,6 +620,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2341485668993453706, guid: 8838d1c651ad189449a8ac64b0aec68f,
+        type: 3}
+      propertyPath: m_Height
+      value: 1.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2341485668993453706, guid: 8838d1c651ad189449a8ac64b0aec68f,
+        type: 3}
+      propertyPath: m_Radius
+      value: 0.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 2341485668993453706, guid: 8838d1c651ad189449a8ac64b0aec68f,
+        type: 3}
+      propertyPath: m_Center.y
+      value: -0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 2341485668993453706, guid: 8838d1c651ad189449a8ac64b0aec68f,
+        type: 3}
+      propertyPath: m_Center.z
+      value: -0.18
+      objectReference: {fileID: 0}
     - target: {fileID: 3190594547815785926, guid: 8838d1c651ad189449a8ac64b0aec68f,
         type: 3}
       propertyPath: speed
@@ -689,6 +709,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tadpole
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491497275283780055, guid: 8838d1c651ad189449a8ac64b0aec68f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491497275283780055, guid: 8838d1c651ad189449a8ac64b0aec68f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491497275283780055, guid: 8838d1c651ad189449a8ac64b0aec68f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 9039382821569706293, guid: 8838d1c651ad189449a8ac64b0aec68f,
         type: 3}
